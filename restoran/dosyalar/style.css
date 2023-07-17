@@ -1,0 +1,15 @@
+body{
+height: 100%;
+width: 100%;
+position: absolute;
+
+}
+  #masa{
+    height:100px;
+    margin:20px;
+    font-size:35px;
+    border-radius:10px;
+  }
+  #masalink a:link, #masalink a:visited {
+    text-decoration: none;
+  }
